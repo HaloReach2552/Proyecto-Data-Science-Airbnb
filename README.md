@@ -1,1 +1,15 @@
-**PROYECTO DE DATA SCIENCE Airbnb**
+**PROYECTO DE DATA SCIENCE AIRBNB**
+
+**SOBRE AIRBNB**
+
+Airbnb es una empresa tecnológica que opera una plataforma en línea para reservar alojamientos de corta y larga estancia, además de algunas experiencias de viaje. Desde su lanzamiento en 2008, se ha convertido en una de las mayores plataformas de alojamiento entre particulares y anfitriones profesionales, con presencia en numerosos países. Conecta a anfitriones que ofrecen viviendas, habitaciones u otros tipos de alojamiento con huéspedes que buscan una estancia. La plataforma gestiona las reservas, los pagos y diversas herramientas para facilitar la comunicación, las valoraciones y la atención al cliente. Su oferta incluye desde apartamentos urbanos hasta casas rurales, cabañas y alojamientos singulares.
+
+**MODELO DE NEGOCIO**
+
+La empresa obtiene ingresos principalmente mediante comisiones aplicadas a las reservas. Los anfitriones establecen sus propios precios, disponibilidad y normas, mientras que los viajeros pueden comparar opciones utilizando filtros como ubicación, precio, servicios y valoraciones. Este modelo ha ampliado las alternativas al alojamiento hotelero tradicional en muchos destinos.
+
+**IMPACTO DE LA COMPAÑIA**
+
+Airbnb ha influido de forma importante en la industria del turismo y la economía colaborativa. Además, la plataforma ha ampliado su ecosistema con servicios orientados a mejorar la experiencia de anfitriones y viajeros, incluyendo actividades organizadas por anfitriones y programas de protección para determinadas reservas. Estos servicios han evolucionado con el tiempo y forman parte de la estrategia de diversificación de la empresa.
+
+**PROBLEMA
