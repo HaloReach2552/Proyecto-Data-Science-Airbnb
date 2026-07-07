@@ -1,4 +1,4 @@
-    **PROYECTO DE DATA SCIENCE AIRBNB**
+**PROYECTO DE DATA SCIENCE AIRBNB**
 
 Link de la BBDD: https://www.kaggle.com/datasets/kritikseth/us-airbnb-open-data/data?utm_source=chatgpt.com
 
@@ -20,5 +20,16 @@ Airbnb ha influido de forma importante en la industria del turismo y la economí
 
 **PROBLEMA**: Airbnb cuenta con miles de alojamientos con características muy diversas. La empresa quiere identificar grupos de propiedades con perfiles similares para mejorar las recomendaciones, definir estrategias de precios y orientar campañas de marketing.
 
-**Objetivo**: Segmentar los alojamientos de Airbnb según sus características para identificar perfiles de propiedades y proponer estrategias de precios y marketing.
+**Objetivo**: Segmentar los alojamientos de Airbnb EE.UU según sus características para identificar perfiles de propiedades y proponer estrategias de precios y marketing.
 
+**FLUJO DEL PROYECTO**
+   1.Definición del problema de negocio.
+   2.Limpieza y preparación de los datos.
+   3.EDA con visualizaciones.
+   4.Ingeniería de características.
+   5.Escalado de variables.
+   6.Aplicación de K-Means.
+   7.Selección del número óptimo de clústeres (método del codo y Silhouette Score).
+   8.Visualización con PCA o UMAP.
+   9.Interpretación de cada clúster.
+   10.Recomendaciones para el negocio.
