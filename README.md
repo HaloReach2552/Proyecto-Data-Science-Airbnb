@@ -1,5 +1,7 @@
 **PROYECTO DE DATA SCIENCE AIRBNB**
 
+Link del proyecto: 
+
 **SOBRE AIRBNB**
 
 Airbnb es una empresa tecnológica que opera una plataforma en línea para reservar alojamientos de corta y larga estancia, además de algunas experiencias de viaje. Desde su lanzamiento en 2008, se ha convertido en una de las mayores plataformas de alojamiento entre particulares y anfitriones profesionales, con presencia en numerosos países. Conecta a anfitriones que ofrecen viviendas, habitaciones u otros tipos de alojamiento con huéspedes que buscan una estancia. La plataforma gestiona las reservas, los pagos y diversas herramientas para facilitar la comunicación, las valoraciones y la atención al cliente. Su oferta incluye desde apartamentos urbanos hasta casas rurales, cabañas y alojamientos singulares.
