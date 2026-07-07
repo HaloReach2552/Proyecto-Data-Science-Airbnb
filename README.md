@@ -22,7 +22,7 @@ Airbnb ha influido de forma importante en la industria del turismo y la economí
 
 **Objetivo**: Segmentar los alojamientos de Airbnb EE.UU según sus características para identificar perfiles de propiedades y proponer estrategias de precios y marketing.
 
-**FLUJO DEL PROYECTO**
+**FLUJO DEL PROYECTO:**
 
    1.Definición del problema de negocio.
    
