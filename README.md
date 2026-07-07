@@ -16,5 +16,9 @@ La empresa obtiene ingresos principalmente mediante comisiones aplicadas a las r
 
 Airbnb ha influido de forma importante en la industria del turismo y la economía colaborativa. Además, la plataforma ha ampliado su ecosistema con servicios orientados a mejorar la experiencia de anfitriones y viajeros, incluyendo actividades organizadas por anfitriones y programas de protección para determinadas reservas. Estos servicios han evolucionado con el tiempo y forman parte de la estrategia de diversificación de la empresa.
 
-**PROBLEMA**
+**PROBLEMA Y OBJETIVO DEL NEGOCIO**
+
+**PROBLEMA**: Airbnb cuenta con miles de alojamientos con características muy diversas. La empresa quiere identificar grupos de propiedades con perfiles similares para mejorar las recomendaciones, definir estrategias de precios y orientar campañas de marketing.
+
+**Objetivo**: Segmentar los alojamientos de Airbnb según sus características para identificar perfiles de propiedades y proponer estrategias de precios y marketing.
 
