@@ -24,12 +24,21 @@ Airbnb ha influido de forma importante en la industria del turismo y la economí
 
 **FLUJO DEL PROYECTO**
    1.Definición del problema de negocio.
+   
    2.Limpieza y preparación de los datos.
+   
    3.EDA con visualizaciones.
+   
    4.Ingeniería de características.
+   
    5.Escalado de variables.
+   
    6.Aplicación de K-Means.
+   
    7.Selección del número óptimo de clústeres (método del codo y Silhouette Score).
+   
    8.Visualización con PCA o UMAP.
+   
    9.Interpretación de cada clúster.
+   
    10.Recomendaciones para el negocio.
