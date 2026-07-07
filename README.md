@@ -1,5 +1,6 @@
 **PROYECTO DE DATA SCIENCE AIRBNB**
 
+Link de la BBDD: https://www.kaggle.com/datasets/kritikseth/us-airbnb-open-data/data?utm_source=chatgpt.com
 Link del proyecto: 
 
 **SOBRE AIRBNB**
@@ -14,4 +15,5 @@ La empresa obtiene ingresos principalmente mediante comisiones aplicadas a las r
 
 Airbnb ha influido de forma importante en la industria del turismo y la economía colaborativa. Además, la plataforma ha ampliado su ecosistema con servicios orientados a mejorar la experiencia de anfitriones y viajeros, incluyendo actividades organizadas por anfitriones y programas de protección para determinadas reservas. Estos servicios han evolucionado con el tiempo y forman parte de la estrategia de diversificación de la empresa.
 
-**PROBLEMA
+**PROBLEMA**
+
