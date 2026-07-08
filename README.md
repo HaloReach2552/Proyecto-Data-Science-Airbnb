@@ -2,7 +2,7 @@
 
 Link de la BBDD: https://www.kaggle.com/datasets/kritikseth/us-airbnb-open-data/data?utm_source=chatgpt.com
 
-Link del proyecto: 
+Link del proyecto: https://github.com/HaloReach2552/Proyecto-Data-Science-Airbnb/blob/main/proyecto.ipynb
 
 **SOBRE AIRBNB**
 
