@@ -36,9 +36,9 @@ Airbnb ha influido de forma importante en la industria del turismo y la economí
    
    6.Aplicación de K-Means.
    
-   7.Selección del número óptimo de clústeres (método del codo y Silhouette Score).
+   7.Selección del número óptimo de clústeres (método del codo o Silhouette Score).
    
-   8.Visualización con PCA o UMAP.
+   8.Visualización con PCA.
    
    9.Interpretación de cada clúster.
    
